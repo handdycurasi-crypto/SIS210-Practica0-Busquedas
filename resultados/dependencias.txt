@@ -1,0 +1,2 @@
+Matplotlib 3.10.8
+pdfTeX 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian)

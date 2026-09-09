@@ -1,0 +1,17 @@
+{
+  "estado": "OK",
+  "datasets": 9,
+  "consultas_en_archivos": 9000,
+  "combinaciones_temporales": 54,
+  "lotes_medidos": 162,
+  "busquedas_cronometradas": 162000,
+  "conteos_cpp": 27,
+  "comprobaciones": [
+    "SHA-256 de datos y fuentes de gráficos",
+    "700 hits y 300 misses por archivo",
+    "precondiciones de orden",
+    "medias y desviaciones recalculadas",
+    "checksums estables e iguales entre lenguajes",
+    "comparaciones lineales verificadas por oráculo independiente"
+  ]
+}

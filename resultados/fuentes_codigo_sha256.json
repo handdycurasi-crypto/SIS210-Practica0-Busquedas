@@ -1,0 +1,11 @@
+{
+  "cpp/busquedas.cpp": "cf18472c772a852ff8fc44740494fbd70f7a0a0610da86fcdd4f340afa2960c5",
+  "python/busquedas.py": "22e587844f6c9c5875ce757669d539b47bdb13db808dec720e146a6e06e7e568",
+  "python/heuristica.py": "0377c1f84639566b17743b6d1999b653e91e6b0b0d68f6507048fb260dc7cc4a",
+  "scripts/entorno.py": "f29ffdd0c0b7e657a25464b5b07bed1d59c50e786abc12a69f3b0589da04c126",
+  "scripts/reproducir.py": "c93d5c2ad5e26cd05910d3049542e7c4340c0e3710f72779c2736241f6f3c726",
+  "scripts/generar_datos.py": "6d766e2ec3e11003e9015a97f459b67f87ed478afae43e696588bee18a00f607",
+  "scripts/benchmark_python.py": "4e1e0badb7f595182a016fc140380d0d3845e03a580573ee6974beef8dc65c3a",
+  "scripts/validar_resultados.py": "0b048f3f712128c9fa7a6dc5ac9d1c0fcb97704ee03522fceb57d891735df43b",
+  "scripts/graficar.py": "ee122893970a56500af11680236969ccab663ce9efa8ed2366f7ef57f7b50be5"
+}

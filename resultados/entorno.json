@@ -1,0 +1,24 @@
+{
+  "fecha_utc": "2026-09-09T16:12:21.092280+00:00",
+  "so": "Linux-6.18.35-x86_64-with-glibc2.39",
+  "distribucion": "PRETTY_NAME=\"Ubuntu 24.04.3 LTS\"\nNAME=\"Ubuntu\"\nVERSION_ID=\"24.04\"\nVERSION=\"24.04.3 LTS (Noble Numbat)\"\nVERSION_CODENAME=noble\nID=ubuntu\nID_LIKE=debian\nHOME_URL=\"https://www.ubuntu.com/\"\nSUPPORT_URL=\"https://help.ubuntu.com/\"\nBUG_REPORT_URL=\"https://bugs.launchpad.net/ubuntu/\"\nPRIVACY_POLICY_URL=\"https://www.ubuntu.com/legal/terms-and-policies/privacy-policy\"\nUBUNTU_CODENAME=noble\nLOGO=ubuntu-logo",
+  "cpu": "AMD EPYC 9V74 80-Core Processor",
+  "ram_visible": "MemTotal:       16399700 kB",
+  "limite_ram_cgroup": "15032385536",
+  "cpu_cgroup": "800000 100000",
+  "cpu_afinidad": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "python": "3.12.14",
+  "compilador": "g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0",
+  "flags": "-std=c++17 -O2 -Wall -Wextra -pedantic",
+  "nota": "Entorno remoto de Work; RAM visible y límite de contenedor son distintos. Sin afinidad fija ni aislamiento exclusivo."
+}

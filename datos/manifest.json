@@ -1,0 +1,74 @@
+[
+  {
+    "dataset": "uniforme",
+    "n": 10000,
+    "hits": 700,
+    "misses": 300,
+    "seed": 123,
+    "sha256": "1afc07b287367c6c376fbcb2e8fecc9c2e18de84680789a5b0ba640e4c681c5b"
+  },
+  {
+    "dataset": "sesgado",
+    "n": 10000,
+    "hits": 700,
+    "misses": 300,
+    "seed": 123,
+    "sha256": "37ab313ea363ef75179c16442393c5fb2f10805e0633754cc7ae232a2ceb9744"
+  },
+  {
+    "dataset": "desordenado",
+    "n": 10000,
+    "hits": 700,
+    "misses": 300,
+    "seed": 123,
+    "sha256": "dc115fadc07e36fa20092934982a52c328517a0c9cb471a209d17d4086196c27"
+  },
+  {
+    "dataset": "uniforme",
+    "n": 100000,
+    "hits": 700,
+    "misses": 300,
+    "seed": 123,
+    "sha256": "32cf9e0f24c888a3f7e2b0704d19a521f41a77347836274a156bf2530bcff286"
+  },
+  {
+    "dataset": "sesgado",
+    "n": 100000,
+    "hits": 700,
+    "misses": 300,
+    "seed": 123,
+    "sha256": "918f21bdcccf07a0b06290f51f0f9bf526d96a55334ff304c8664d7706f72f16"
+  },
+  {
+    "dataset": "desordenado",
+    "n": 100000,
+    "hits": 700,
+    "misses": 300,
+    "seed": 123,
+    "sha256": "74f35abe55960a6c0b0d4d339a13db17a9ca0f133ee4a4a7eefeec5b32e15876"
+  },
+  {
+    "dataset": "uniforme",
+    "n": 500000,
+    "hits": 700,
+    "misses": 300,
+    "seed": 123,
+    "sha256": "9f92e88bc638ae68f0b91ef08a68efbb72156bf21bf781485fe3be60436c7175"
+  },
+  {
+    "dataset": "sesgado",
+    "n": 500000,
+    "hits": 700,
+    "misses": 300,
+    "seed": 123,
+    "sha256": "bb7925ad632aaeb3ccd8e39efbde8a03b0702a02063197a2cf309eaf304ada44"
+  },
+  {
+    "dataset": "desordenado",
+    "n": 500000,
+    "hits": 700,
+    "misses": 300,
+    "seed": 123,
+    "sha256": "3b4974fb53a59bd0d89b4b46dfa823b7b3a1c1f8b381ef2007e64d7f1e2870c5"
+  }
+]
