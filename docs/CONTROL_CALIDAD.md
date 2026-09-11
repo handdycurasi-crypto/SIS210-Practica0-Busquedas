@@ -1,4 +1,6 @@
-# Control de calidad de la entrega
+# Control de calidad de la ejecución original
+
+**Actualización del 10 de septiembre de 2026:** este registro documenta la entrega experimental original. Sus referencias a cuatro páginas corresponden a esa versión. El informe ampliado y su nueva compilación se verifican en `CAMBIOS_MARCO_TEORICO.md`; los resultados experimentales originales permanecen intactos.
 
 Estado: completado el 9 de septiembre de 2026 (UTC).
 

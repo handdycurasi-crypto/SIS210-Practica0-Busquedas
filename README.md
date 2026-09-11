@@ -23,13 +23,13 @@ Implementar manualmente lineal, binaria, exponencial e interpolación en Python 
 - `datos/`: nueve archivos de enteros compartidos por ambos lenguajes, semilla y huellas SHA-256.
 - `resultados/`: CSV resumidos y por repetición, comparaciones, entorno, tablas completas y registros de consola.
 - `graficos/`: figuras PNG y PDF vectorial; manifiesto que identifica sus CSV de origen.
-- `informe/`: `informe.tex`, tablas/métricas/entorno derivados y `informe.pdf` (portada + tres páginas).
+- `informe/`: `informe.tex`, tablas/métricas/entorno derivados y `informe.pdf` (versión ampliada con 12 núcleos teóricos).
 - `referencias/FUENTES.md`: bibliografía APA 7, enlaces verificables y alcance de consulta.
 - `docs/CONTROL_CALIDAD.md`: alcance y límites de la verificación final.
 
 ## Requisitos
 
-Python 3.10 o superior; g++ compatible con C++17; Matplotlib 3.8 o superior y menor que 4 para gráficos; pdfLaTeX (TeX Live o equivalente) con babel, lmodern, microtype, amsmath, amssymb, booktabs, tabularx, graphicx, xcolor, enumitem, fancyhdr, titlesec y hyperref. El benchmark Python solo usa biblioteca estándar; Matplotlib se necesita al graficar.
+Python 3.10 o superior; g++ compatible con C++17; Matplotlib 3.8 o superior y menor que 4 para gráficos; pdfLaTeX (TeX Live o equivalente) con babel, lmodern, microtype, amsmath, amssymb, booktabs, tabularx, graphicx, xcolor, enumitem, fancyhdr, titlesec hyperref y xurl. El benchmark Python solo usa biblioteca estándar; Matplotlib se necesita al graficar.
 
 Ejecución original: Python 3.12.14 y g++ 13.3.0 en Ubuntu 24.04.3 LTS remoto. Información detectada completa en `resultados/entorno.json`; no corresponde al equipo personal de los integrantes. `resultados/dependencias.txt` registra las versiones de las herramientas de figuras y PDF.
 
@@ -40,6 +40,20 @@ python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install -r requirements.txt
 ```
+
+## Actualización teórica del 10 de septiembre de 2026
+
+Se amplió el marco teórico a 12 núcleos y se actualizaron citas y referencias APA 7. Esta actualización no ejecutó benchmarks ni modificó código, datos, resultados, gráficos o métricas. Las evidencias originales se conservan byte por byte; véase `docs/INTEGRIDAD_AMPLIACION.json`. La nueva extensión sustituye el límite anterior de tres páginas de contenido. La propuesta de preparación para los tres integrantes está en `docs/SUSTENTACION_TRES_INTEGRANTES.md`.
+
+Para recompilar solo el informe, sin alterar experimentos:
+
+```bash
+cd informe
+pdflatex -interaction=nonstopmode -halt-on-error informe.tex
+pdflatex -interaction=nonstopmode -halt-on-error informe.tex
+```
+
+No ejecute los comandos de reproducción siguientes si solo quiere conservar y estudiar la entrega existente.
 
 ## Reproducir todo
 
