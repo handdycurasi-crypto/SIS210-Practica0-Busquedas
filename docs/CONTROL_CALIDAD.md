@@ -2,6 +2,8 @@
 
 **Actualización del 10 de septiembre de 2026:** este registro documenta la entrega experimental original. Sus referencias a cuatro páginas corresponden a esa versión. El informe ampliado y su nueva compilación se verifican en `CAMBIOS_MARCO_TEORICO.md`; los resultados experimentales originales permanecen intactos.
 
+**Estado actual del repositorio:** publicado en https://github.com/handdycurasi-crypto/SIS210-Practica0-Busquedas.
+
 Estado: completado el 9 de septiembre de 2026 (UTC).
 
 | Requisito | Verificación y evidencia |

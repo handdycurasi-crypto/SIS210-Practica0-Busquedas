@@ -24,7 +24,7 @@ Sedgewick, R., & Wayne, K. (2011). *Algorithms* (4th ed.). Addison-Wesley. https
 
 Skiena, S. S. (2020). *The algorithm design manual* (3rd ed.). Springer. https://doi.org/10.1007/978-3-030-54256-6
 
-Van Sandt, P., Chronis, Y., & Patel, J. M. (2019). Efficiently searching in-memory sorted arrays: Revenge of the interpolation search? En *Proceedings of the 2019 International Conference on Management of Data* (pp. 1791–1808). Association for Computing Machinery. https://doi.org/10.1145/3299869.3300075
+Van Sandt, P., Chronis, Y., & Patel, J. M. (2019). Efficiently searching in-memory sorted arrays: Revenge of the interpolation search? En *Proceedings of the 2019 International Conference on Management of Data* (pp. 36–53). Association for Computing Machinery. https://doi.org/10.1145/3299869.3300075
 
 Zanabria Galvez, A. H. (s. f.). *Práctica 01 — Búsquedas y Notación Asintótica* [Guía de práctica, SIS210]. Universidad Nacional del Altiplano.
 

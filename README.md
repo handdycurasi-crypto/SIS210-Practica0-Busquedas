@@ -10,7 +10,7 @@ Universidad Nacional del Altiplano – Puno · Escuela Profesional de Ingenierí
 - BELIZARIO YANA DAVID VICTOR
 - CURASI ZEVALLOS HANDDY RONALD
 
-El nombre de carpeta `SIS210-Practica0-Busquedas` usa «Práctica 0» solo como referencia interna indicada por el docente. El título oficial se conserva en el informe. Proyecto preparado para publicar posteriormente; no se creó ni publicó un repositorio remoto.
+El nombre de carpeta `SIS210-Practica0-Busquedas` usa «Práctica 0» solo como referencia interna indicada por el docente. El título oficial se conserva en el informe. Repositorio publicado en GitHub: https://github.com/handdycurasi-crypto/SIS210-Practica0-Busquedas.
 
 ## Objetivo y contenido
 
@@ -132,6 +132,6 @@ CSV de medias: lenguaje, algoritmo, dataset, n, `ms_por_busqueda`, `sd_ms` (desv
 - C++ y Python comparten datos y lógica, pero no representación física ni costos de ejecución. Los ratios describen estas implementaciones, no una ley universal entre lenguajes.
 - La evidencia es compatible con la teoría; no constituye una demostración matemática de complejidad.
 
-## Publicar posteriormente en GitHub
+## Repositorio GitHub
 
-Descomprima el ZIP y abra una terminal en esta carpeta. Cree usted un repositorio vacío en GitHub y siga sus instrucciones para conectar esta carpeta. El ZIP no contiene un remoto configurado ni una carpeta `.git`, binarios, entornos virtuales o cachés. Sí contiene datos, resultados y gráficos para reproducibilidad. El material oficial del docente no se redistribuye en el repositorio; la referencia está documentada. La licencia de publicación queda a elección de los autores.
+El proyecto se encuentra publicado en: https://github.com/handdycurasi-crypto/SIS210-Practica0-Busquedas. La copia ZIP no incluye la carpeta `.git`, binarios, entornos virtuales ni cachés, pero conserva código, datos, resultados y gráficos para reproducibilidad. El material oficial del docente no se redistribuye en el repositorio; la referencia está documentada.
